@@ -142,4 +142,4 @@ When you make changes and want to release a new version, update the version numb
 
 That’s it! Your package is now available for others to install using `pip install my_package`.
 
-###Check the [*update_quide*](./update.md) to see how to update your package once you uploaded
+###Check the [*update_quide*](./UPDATE_GUIDE.md) to see how to update your package once you uploaded
